@@ -14,7 +14,7 @@ I am a disciplined and responsible Java developer. I am looking for an opportuni
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,linux,idea,git,github,docker,postman,postgres,html,css,wordpress,pr,au)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,git,postgres,kafka,rabbitmq,redis,prometheus,grafana,github,bitbucket,linux,docker,jenkins,kubernetes,openshift,idea,postman,notion,obsidian,ai&perline=12)](https://skillicons.dev)
 
 ### Socials
 
