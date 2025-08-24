@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java-Developer
 --------------
 
-I am a disciplined and responsible Java developer. I am looking for an opportunity to be part of a dynamic team where my skills in Java development and process automation processes can be used for the commercial success of the final product.
+Java Developer with 3+ years of commercial experience (6 years in IT).
+Specializing in backend development, process automation, and AI solution integration.
+Hands-on experience with Spring (Boot, WebFlux, Data), PostgreSQL, Kafka, OpenAI API, and cloud services.
+Continuously deepening expertise: studying architectural patterns, performance optimization, and modern development tools.
+Prefer tasks that involve not just writing code, but solving business problems—from design to implementation.
 
 * 🌍  I'm based in Moscow, Tel-Aviv
 * ✉️  You can contact me at [diogteff.ivan@yandex.ru](mailto:diogteff.ivan@yandex.ru)
