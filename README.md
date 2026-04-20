@@ -12,7 +12,7 @@ Prefer tasks that involve not just writing code, but solving business problems�
 
 * 🌍  I'm based in Moscow, Tel-Aviv
 * ✉️  You can contact me at [diogteff.ivan@yandex.ru](mailto:diogteff.ivan@yandex.ru)
-* 🧠  I'm learning Java, Spring Boot
+* 🧠  I'm loving Java, Spring Boot
 * 🤝  I'm open to collaborating on commercially oriented projects
 * ⚡  My global goal is to participate in cutting-edge AI development
 
